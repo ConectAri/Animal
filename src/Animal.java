@@ -3,6 +3,8 @@
 public abstract class Animal {
 
 	// atributos
+	// Testando este comentário em segundo momento
+	// Segundo comentário
 
 	private String nome;
 	private int idade;
